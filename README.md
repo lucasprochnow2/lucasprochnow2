@@ -19,6 +19,7 @@ Full stack developer at <a href="https://moblee.com.br">mobLee</a>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=flat&logo=graphql)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=flat&logo=php)&nbsp;
+![MySql](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
  
 
