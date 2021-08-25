@@ -6,7 +6,9 @@
 
 ### 🚀 &nbsp; Currently
 
-Full stack developer at <a href="https://moblee.com.br">mobLee</a>
+- 💻 &nbsp; Full stack developer at <a href="https://moblee.com.br">mobLee</a>
+   
+- 📝 &nbsp; Studying english
 
 ### 🧰 &nbsp; My main tools 
 
