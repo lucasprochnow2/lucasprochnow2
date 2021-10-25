@@ -6,7 +6,7 @@
 
 ### 🚀 &nbsp; Currently
 
-- 💻 &nbsp; Full stack developer at <a href="https://moblee.com.br">mobLee</a>
+- 💻 &nbsp; Full stack developer at <a href="https://meliuz.com.br">Méliuz</a>
    
 - 📝 &nbsp; Studying english
 
