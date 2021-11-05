@@ -1,0 +1,43 @@
+{
+  "explorer.autoReveal": false,
+  "breadcrumbs.enabled": true,
+  "workbench.colorTheme": "Dracula",
+  // EDITOR
+  // "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": false,
+    "source.fixAll.eslint": true
+  },
+  // "[html]": {
+  //   "editor.formatOnSave": false
+  // }
+  // "[php]": {
+  //     "editor.formatOnSave": false,
+  // }
+  // "[css]": {
+  //   "editor.formatOnSave": false
+  // },
+  // "[javascript]": {
+  //   "editor.formatOnSave": false
+  // },
+  // "[html]": {
+  //   "editor.formatOnSave": false
+  // },
+  "eslint.alwaysShowStatus": true,
+  "eslint.packageManager": "yarn",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "workbench.iconTheme": "material-icon-theme",
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "extensions.ignoreRecommendations": false,
+  "workbench.editor.untitled.hint": "hidden",
+  "security.workspace.trust.untrustedFiles": "open"
+}
