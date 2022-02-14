@@ -2,7 +2,9 @@
   "explorer.autoReveal": false,
   "breadcrumbs.enabled": true,
   "workbench.colorTheme": "Dracula",
-  // EDITOR
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.untitled.hint": "hidden",
+  "workbench.tree.indent": 15,
   // "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
   "editor.tabSize": 2,
@@ -34,10 +36,9 @@
     "typescript",
     "typescriptreact"
   ],
-  "workbench.iconTheme": "material-icon-theme",
   "javascript.updateImportsOnFileMove.enabled": "never",
   "typescript.updateImportsOnFileMove.enabled": "never",
   "extensions.ignoreRecommendations": false,
-  "workbench.editor.untitled.hint": "hidden",
-  "security.workspace.trust.untrustedFiles": "open"
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmDelete": false
 }
