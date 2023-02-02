@@ -10,6 +10,8 @@
    
 - 📝 &nbsp; Studying english
 
+- 📝 &nbsp; Studying AWS cloud
+
 ### 🧰 &nbsp; My main tools 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
