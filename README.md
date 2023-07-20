@@ -9,7 +9,7 @@
 
 - 💻 &nbsp; Software Engineer at <a href="https://meliuz.com.br">Méliuz</a>
    
-- 📝 &nbsp; Writing in my [dev.to](https://dev.to/lucasprochnow) blog
+- 📝 &nbsp; Building a [boilerplate cli](https://github.com/lucasprochnow2/boilerplate-cli) as a side project.
 
 ### 🧰 &nbsp; My main tools 
 
