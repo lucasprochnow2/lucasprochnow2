@@ -9,12 +9,13 @@
 
 - 💻 &nbsp; Software Engineer at <a href="https://meliuz.com.br">Méliuz</a>
    
-- 📝 &nbsp; Building a [boilerplate cli](https://github.com/lucasprochnow2/boilerplate-cli) as a side project.
+- 📝 &nbsp; Studying python at [Linux tips](https://www.linuxtips.io/)
 
 ### 🧰 &nbsp; My main tools 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=TypeScript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-0D1117?style=flat&logo=react)&nbsp;
