@@ -4,14 +4,14 @@
 <a href="mailto:lucas.prochnow01@gmail.com"><img src="https://img.shields.io/badge/-Contact me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/luketagod"><img src="https://img.shields.io/badge/-Tweet%20me-0077B5?style=flat&logo=twitter&logoColor=white"/></a>
 
-### 🛠️ &nbsp; My work
-
-<a href="https://leetcode.com/u/lucasprochnow/"><img src="https://img.shields.io/badge/-Leetcode%20Profile-0A0A0A?style=flat&logo=leetcode&logoColor=white%22"/></a>
-<a href="https://dev.to/lucasprochnow"><img src="https://img.shields.io/badge/-Knowledge%20share-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
-
 ### 🚀 &nbsp; Currently
 
 - 💻 &nbsp; Software Engineer at <a href="https://meliuz.com.br">Méliuz</a>
+
+### 🛠️ &nbsp; Sharpening the tools
+
+<a href="https://leetcode.com/u/lucasprochnow/"><img src="https://img.shields.io/badge/-Leetcode%20Profile-0A0A0A?style=flat&logo=leetcode&logoColor=white%22"/></a>
+<a href="https://dev.to/lucasprochnow"><img src="https://img.shields.io/badge/-Knowledge%20share-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
 
 ### 🧰 &nbsp; My main tools 
 
