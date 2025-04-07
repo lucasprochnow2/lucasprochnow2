@@ -6,7 +6,7 @@
 
 ### 🚀 &nbsp; Currently
 
-- 💻 &nbsp; Software Engineer at <a href="https://meliuz.com.br">Méliuz</a>
+- 💻 &nbsp; Full stack developer at <a href="https://ae.studio/">AE.studio</a>
 
 ### 🛠️ &nbsp; Sharpening the tools
 
