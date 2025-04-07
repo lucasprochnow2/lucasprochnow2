@@ -8,11 +8,6 @@
 
 - 💻 &nbsp; Full stack developer at <a href="https://ae.studio/">AE.studio</a>
 
-### 🛠️ &nbsp; Sharpening the tools
-
-<a href="https://leetcode.com/u/lucasprochnow/"><img src="https://img.shields.io/badge/-Leetcode%20Profile-0A0A0A?style=flat&logo=leetcode&logoColor=white%22"/></a>
-<a href="https://dev.to/lucasprochnow"><img src="https://img.shields.io/badge/-Knowledge%20share-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
-
 ### 🧰 &nbsp; My main tools 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript)&nbsp;
